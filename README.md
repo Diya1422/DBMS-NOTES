@@ -2,15 +2,7 @@
 
 Welcome to my DBMS Notes Repository! 📚
 
-Here you'll find unit-wise notes for Database Management Systems:
-
-## 📂 Contents
-
-- 📄 [UNIT-1.docx](UNIT-1.docx):
-- 📄 [UNIT-2.docx](UNIT-2.docx): 
-- 📄 [UNIT-3.docx](UNIT-3.docx): 
-- 📄 [UNIT-3-HALF.docx](UNIT-3-HALF.docx): Additional Notes for Unit 3
-- 📄 [UNIT-4.docx](UNIT-4.docx): 
+Here you'll find unit-wise notes for Database Management Systems.
 
 ## 📌 Author
 
